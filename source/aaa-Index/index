@@ -1,0 +1,40 @@
+Index
+
+The class notes use the code in the following order.
+In Eclipse, you can import all these files at once.
+You will have to include JUnit 4 in the build path to get
+the unit tests to work (click on the yellow bulb for the
+automatic suggestion to add the unit test library).
+
+1) studentinformation
+2) studentinformationrevised
+3) computer
+4) bicycle
+5) union
+6) unionextras
+7) unionperformance
+8) unionobject
+9) giftgame
+10) linkedlist
+11) objectlistiter
+12) objectlistitergenerics
+13) stackarray
+14) stacklinked
+15) stackobjectlist
+16) webhistory
+17) forest
+18) queuearray
+19) servermanager
+20) listexample
+21) derby
+22) recursion
+23) forestrecursive
+24) tree
+25) hashchain
+26) comparator
+27) cdplayer
+28) phone
+29) hashmap
+30) treeset
+31) priorityqueue
+32) 
